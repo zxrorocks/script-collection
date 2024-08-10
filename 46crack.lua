@@ -1,13 +1,8 @@
 getgenv()._= "xk5ng is a good scripter, gotta invest in some security though.. | @zxrorocks & discord.gg/iku"
-
 -- To get started in "OWNER" put the username you want to control
-
 --\\-- Accounts --//--
-
 getgenv().Accounts = {OWNER = "x", STAND = "x"}
-
 --\\-- Stand-Configuration --//--
-
 getgenv().StandConfig = {
     --\\-- ! Main ! --//--
     ['Position'] = 'Back', --Position Of Stand [Back | Left | Right]
